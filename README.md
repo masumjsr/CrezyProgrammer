@@ -15,7 +15,7 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Masum Hossain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate <b>Android app developer</b> from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crezyprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="crezyprogrammer" /> </p>
 
